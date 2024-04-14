@@ -1,7 +1,7 @@
 certifi==2020.12.5
 chardet==4.0.0
 fire==0.3.1
-idna==2.10
+idna==3.7
 Jinja2==2.11.3
 MarkupSafe==1.1.1
 pendulum==1.2.5
